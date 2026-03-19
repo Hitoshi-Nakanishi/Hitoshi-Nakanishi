@@ -2,10 +2,8 @@
 
 - 👋 Hi, I’m @Hitoshi-Nakanishi
 - I’m a quantitative researcher and software engineer focused on systematic trading, market structure, and research-driven portfolio design.
-- I hold a Ph.D. in Computer Science, specializing in deep learning and computer vision.
-- I’m currently interested in applying large language models and reinforcement learning to knowledge integration and decision-making in finance.
 - As a personal project, I’m building **QRX Arts (Atlas One)**, a quantitative reasoning and execution platform for financial systematic trading.
-- I’m looking to collaborate on equity and options backtesting projects in finance, leveraging OpenAI Codex and MCP-based servers.
+- I’m looking to collaborate on equity and options backtesting projects in finance, leveraging OpenAI Codex and OpenClaw!
 - Please reach out to me via LinkedIn.
 
 <!---
